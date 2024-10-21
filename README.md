@@ -1,4 +1,5 @@
-## 1. 基本算法[[1.基础算法]]
+## [1.基础算法](https://github.com/Mangolinli/algorithmnotes/blob/main/ACM%E7%AE%97%E6%B3%95/1.%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95.md)
+
 ### 1.1 构造
 
 ### 1.2枚举
@@ -11,13 +12,16 @@
 
 ### 1.6 递归
 
-## 2. 搜索[[2. 搜索]]
+## [2. 搜索](https://github.com/Mangolinli/algorithmnotes/blob/main/ACM%E7%AE%97%E6%B3%95/2.%20%E6%90%9C%E7%B4%A2.md)
+
 ### 2.1 深度优先搜索
+
 ### 2.2 广度优先搜索
 ### 2.3 双向搜索
 ### 2.4 记忆化搜索
 ### 2.5 启发式搜索
-## 3. 动态规划[[3. 动态规划]]
+## [3. 动态规划](https://github.com/Mangolinli/algorithmnotes/blob/main/ACM%E7%AE%97%E6%B3%95/3.%20%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92.md)
+
 ### 3.1 背包问题
 #### 3.1.1 01背包
 #### 3.1.2 多重背包
